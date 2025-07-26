@@ -1,4 +1,4 @@
-# Estudos em visão computacional com Python e OpenCV
+# Computer vision studies with Python and OpenCV
 
 ## Run:
 `uv run [script].py`
